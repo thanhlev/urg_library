@@ -9,9 +9,9 @@
   $Id$
 */
 
-#include "Urg_driver.h"
+#include "urg_cpp/Urg_driver.h"
 #include "Connection_information.h"
-#include "math_utilities.h"
+#include "urg_cpp/math_utilities.h"
 #include <iostream>
 
 using namespace qrk;

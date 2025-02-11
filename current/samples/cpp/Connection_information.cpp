@@ -11,7 +11,7 @@
 */
 
 #include "Connection_information.h"
-#include "detect_os.h"
+#include "urg_cpp/detect_os.h"
 #include <string>
 #include <cstring>
 

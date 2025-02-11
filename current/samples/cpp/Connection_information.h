@@ -13,7 +13,7 @@
   $Id$
 */
 
-#include "Urg_driver.h"
+#include "urg_cpp/Urg_driver.h"
 #include <memory>
 
 

@@ -13,10 +13,6 @@
 #include "urg_serial.h"
 
 
-enum {
-    False = 0,
-    True,
-};
 
 
 #if defined(URG_WINDOWS_OS)

@@ -33,6 +33,10 @@ enum {
 
     ERROR_MESSAGE_SIZE = 256,
 };
+enum {
+    False = 0,
+    True,
+};
 
 
 //! \~japanese シリアル通信用  \~english Control information for serial connection
